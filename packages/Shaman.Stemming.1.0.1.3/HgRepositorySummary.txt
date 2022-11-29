@@ -1,5 +1,0 @@
-parent: 9674:cf4d354ba58e tip
- also return text from stderr
-branch: default
-commit: 29 modified, 3 unknown
-update: 52 new changesets, 33 branch heads (merge)
